@@ -1,0 +1,6 @@
+
+Tom Smith ;CSE ;123456789 ;Visa
+Risolat  ;CSE ;123456789 ;Visa
+ ; ; ;
+Risolat Utkurova ;CSE ; ;Visa
+M ;CSE ; ;Visa
